@@ -1843,7 +1843,7 @@ camera_group = CameraGroup()
 player = Player('playerimage/right/main.png', (750, 850), camera_group)
 shadow = Shadow('blackphon1.png', camera_group)
 scroll = MagicScroll(1, camera_group)
-portal = Portal('yellow.jpg', camera_group)
+portal = Portal('prozwall.png', camera_group)
 music = Music()
 timer = Timer()
 
